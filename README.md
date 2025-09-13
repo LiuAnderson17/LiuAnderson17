@@ -39,9 +39,9 @@
 
 ## 📂 Projetos em Destaque
 
-- [FakePinterest](https://github.com/LiuAnderson17/FakePinterest) – Projeto inspirado no Pinterest  
-- [SiteComunidade](https://github.com/LiuAnderson17/SiteComunidade) – Site em Django para comunidade  
-- [Alura_Space](https://github.com/LiuAnderson17/Alura_Space) – Projeto front-end com CSS  
+- [FakePinterest](https://github.com/LiuAnderson17/FakePinterest) – Projeto Flask inspirado no Pinterest  
+- [SiteComunidade](https://github.com/LiuAnderson17/SiteComunidade) – Site em Flask para comunidade  
+- [Alura_Space](https://github.com/LiuAnderson17/Alura_Space) – Projeto Django  
 
 *(mais projetos no meu [GitHub](https://github.com/LiuAnderson17))*
 
