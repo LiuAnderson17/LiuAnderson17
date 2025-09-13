@@ -22,7 +22,6 @@
 
 - **Git e GitHub: compartilhando e colaborando em projetos (8h)**  
 - **Linux: gerenciamento de diretórios, arquivos, permissões e processos (8h)**  
-- **Carreira Desenvolvimento Back-End Python (2h)**  
 
 ---
 
