@@ -40,7 +40,9 @@
 
 - [FakePinterest](https://github.com/LiuAnderson17/FakePinterest) – Projeto Flask inspirado no Pinterest  
 - [SiteComunidade](https://github.com/LiuAnderson17/SiteComunidade) – Site em Flask para comunidade  
-- [Alura_Space](https://github.com/LiuAnderson17/Alura_Space) – Projeto Django  
+- [Alura_Space](https://github.com/LiuAnderson17/Alura_Space) – Projeto Django
+- [modelo-blog](https://github.com/LiuAnderson17/modelo-blog) – Projeto Django, JavaScript
+-   
 
 *(mais projetos no meu [GitHub](https://github.com/LiuAnderson17))*
 
